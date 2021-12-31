@@ -2,7 +2,7 @@
 - 👀 I’m living in Ho Chi Minh City, Viet Nam
 - 🌱 I’m currently learning PHP for Backend, JavaScript, ReactJS for Frontend  
 - 💞️ I’m looking to collaborate on any tech company or sort of company with IT department
--:sun_with_face: I will be Fullstack Developer in near future. I'm seriously !!! 😄😄😄 
+- :sun_with_face: I will be Fullstack Developer in near future. I'm seriously !!! 😄😄😄 
 - :email: Anyone can contact with me by email: phat.mt236@gmail.com :mega: :mega: :mega: 
 
 <!---
